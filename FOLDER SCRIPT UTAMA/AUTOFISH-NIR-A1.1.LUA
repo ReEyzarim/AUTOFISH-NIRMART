@@ -1,6 +1,4 @@
 
-
-
 ----[[DEV SETTING]]
 emotebait = "EROR 404"
 bait_name = "EROR 404"
