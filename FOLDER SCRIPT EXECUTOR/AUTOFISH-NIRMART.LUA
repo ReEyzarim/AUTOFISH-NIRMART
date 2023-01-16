@@ -44,36 +44,36 @@ fitur_multiplebot        = false -- Aktifasi utama, fitur multi bot
 --[ISI BAGIAN NON-MULTIBOT KETIKA TIDAK MENGAKTIFKAN FITUR MULTIBOT]--
 --[[Settingan WebHook]]--
 Thumbnail_Url   = "https://i.pinimg.com/originals/90/7e/1a/907e1a5e337bc4b2f47ab63894f94a3d.gif"
-Webhook_Link    = "https://discord.com/api/webhooks/1063279814280224818/ES8tSE4nSqyCrLcEssEuUwQxqb-CsT2ynfJAnXQp_t6ZORByiICDCNHYPiCdnbqINVYY"
+Webhook_Link    = ""
 
 --[[SETTINGAN BOT BAIT DAN ROD]]--
 Id_Bait         = 2914 -- Id bait
 Id_Rod          = 3008 -- Id Rod
 foodbuff        = 6914 -- Id makanan
 --[[World Mancing]]--
-world_mancing       = "HVNFISH2" -- World Mancing
-id_spot_mancing     = "414" -- Id door untuk keluar dari pintu putih
+world_mancing       = "" -- World Mancing
+id_spot_mancing     = "" -- Id door untuk keluar dari pintu putih
 id_pos_spot_mancing =  12-- block dibalik tempat mancing
 
 
 --[[World Bait]]--
-world_bait      = "ALDOWORM" --- nama world bait disimpan
-id_world_bait   = "HEHEKAMUYAB" --- id door world bait
+world_bait      = "" --- nama world bait disimpan
+id_world_bait   = "" --- id door world bait
 Pos_Bait        = 20
 
 --[[World Drop Fishing]]--
-world_drop             = "EYZFISH" -- nama world yang ingin dijadikan tempat drop
-id_door_spot_fishing   = "hehekamuyab" -- id world
+world_drop             = "" -- nama world yang ingin dijadikan tempat drop
+id_door_spot_fishing   = "" -- id world
 id_spot_fishing        = 16 -- id block untuk ngedrop saran pake display box
 
 --[[World Drop Deco]]--
-world_drop_deco       = "EYZFISH" --Nama world tempat drop tree deco
-id_door_spot_deco     = "hehekamuya" -- id door dari world tree deco
+world_drop_deco       = "" --Nama world tempat drop tree deco
+id_door_spot_deco     = "" -- id door dari world tree deco
 id_pos_world_deco     = 20 -- id block untuk koordinat bot
 
 --[[World Drop Roles]]--
-world_drop_roles       = "EYZFISH" --Nama world tempat drop tree deco
-id_door_spot_roles     = "hehekamuya" -- id door dari world tree deco
+world_drop_roles       = "" --Nama world tempat drop tree deco
+id_door_spot_roles     = "" -- id door dari world tree deco
 id_pos_world_roles     = 20 -- id block untuk koordinat bot
 ----[[==========================================================]]----
 
@@ -105,7 +105,7 @@ bot[1] = {
     Id_Door_Deco = "kl", --[[ID DOOR TEMPAT DROP TREE DECO]]
     Pos_Block_Deco = "", --[[ID BLOCK TEMPAT DROP ]]
 
-    Webhook_Link = "https://discord.com/api/webhooks/1055671369708355594/SwhX1zkd1pS_1tgJaN6a96m5fMMBJ9Y3sOjEn3LlKPvamGYI7Ow4qeWL1uu5PZUdBX3Q", --[[LINK WEBHOOK]]
+    Webhook_Link = "", --[[LINK WEBHOOK]]
 }
 ----[[==========================================================]]----
 
